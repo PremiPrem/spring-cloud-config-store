@@ -1,5 +1,6 @@
 member:
- rent:
+
+  rent:
   min: 5
   max: 40
  price:
@@ -7,4 +8,5 @@ member:
 vehicle:
  default:
   model: cross over
-duration: all
+duration: winter
+
